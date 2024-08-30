@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed:
 2. Run the following command to build and start the containers:
 
     ```bash
-    cd todos-backend
+    cd jwt-auth-backend
     docker-compose up --build
     ```
 
